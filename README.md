@@ -1,6 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
+ムービーナイト
+このREADMEは通常、取得するために必要な手順を文書化します。
 application up and running.
 
 Things you may want to cover:
